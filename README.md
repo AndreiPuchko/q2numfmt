@@ -66,13 +66,13 @@ The package is based on:
 
 ## License
 
-This project is licensed under the MIT License – see the [LICENSE]() file for details.
+This project is licensed under the MIT License – see the [LICENSE](https://github.com/AndreiPuchko/q2numfmt/blob/main/LICENSE) file for details.
 
 ## Links
 
-    📦 PyPI: https://pypi.org/project/q2numfmt
+PyPI: https://pypi.org/project/q2numfmt
 
-    🧑‍💻 GitHub: https://github.com/AndreiPuchko/q2numfmt
+GitHub: https://github.com/AndreiPuchko/q2numfmt
 
 ## Author
 
