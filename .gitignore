@@ -1,0 +1,4 @@
+build_and_publish.cmd
+poetry.lock
+.vscode
+__pycache__
