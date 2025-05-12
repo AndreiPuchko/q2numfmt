@@ -46,12 +46,14 @@ Returns a str with the formatted result.
 
 ## Example Format Strings
 
-Format String	Input	Output
-0.00	12.3	12.30
-#,##0	12345	12,345
-0.0%	0.1234	12.3%
-$#,##0.00	-1234.5	-$1,234.50
-[Red]-0.0	-5.5	-5.5
+| Format String | Input | Output |
+| ---: | ----------: | ---------: |
+|0.00	|12.3	|12.30
+|#,##0	|12345	|12,345
+|0.0%	|0.1234	|12.3%
+| $#,##0.00	|-1234.5| -$1,234.50
+| 1234.59 | ####.# | 1234.6
+|[Red]-0.0	|-5.5|	-5.5
 
 
 ## Specification
